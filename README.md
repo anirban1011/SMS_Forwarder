@@ -12,4 +12,4 @@ https://github.com/anirban1011/SMS_Forwarder/releases/download/v3.4/SMS_Forwarde
 6) Click on Permissions and grant all three permissions i.e Notifications, Phone and SMS
 7) Everything is ready. Now Open the App and create a Forwarding Rule
 
-[image_alt](https://github.com/anirban1011/SMS_Forwarder/blob/main/Instalation_Guide.jpg)
+![image_alt](https://github.com/anirban1011/SMS_Forwarder/blob/main/Instalation_Guide.jpg)
