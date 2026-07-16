@@ -6,7 +6,7 @@ A high-performance Android automation utility designed to automatically forward 
 
 Download the latest APK:
 
-[Download SMS Forwarder v3.4.1](https://github.com/anirban1011/SMS_Forwarder/releases/download/3.4.1/SMS_Forwarder_v3.4.1.apk)
+[Download SMS Forwarder v3.4.0](https://github.com/anirban1011/SMS_Forwarder/releases/download/3.4.1/SMS_Forwarder_v3.4.0.apk)
 
 ## 📱 Installation Guide
 
